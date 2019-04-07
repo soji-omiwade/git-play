@@ -1,0 +1,4 @@
+!lib.a
+*.a
+coo/
+/boo
