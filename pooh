@@ -1,0 +1,29 @@
+commit 6fc994d62528ebcedbd847b65d83a81f0d2e79a2
+Author: Soji Omiwade <omiwade@gmail.com>
+Date:   Sun Apr 7 15:39:38 2019 -0700
+
+    playing with git ignore and the glob
+
+commit c0480e5cffa88a02b20621877ed817df6d60f8bc
+Author: Soji Omiwade <omiwade@gmail.com>
+Date:   Sun Apr 7 12:16:09 2019 -0700
+
+    bye bye pee
+
+commit 394eca5fcff3f1facae038268564db73c3567306
+Author: Soji Omiwade <omiwade@gmail.com>
+Date:   Sun Apr 7 12:05:52 2019 -0700
+
+     bye bye hello and bye
+
+commit 659add81df91305410b69dddff80052ee692c360
+Author: Soji Omiwade <omiwade@gmail.com>
+Date:   Sun Apr 7 10:21:44 2019 -0700
+
+    now add hello
+
+commit 2f2ad6026aa140782fa4d8ec302f4d5cabc706fb
+Author: Soji Omiwade <omiwade@gmail.com>
+Date:   Sun Apr 7 10:20:18 2019 -0700
+
+    initial commit; only bye for now
