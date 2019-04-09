@@ -7,3 +7,4 @@ d
 v1.2
 >>>>>>> detached_commit
 detach test
+detach test2 parent is 6aafde8?
