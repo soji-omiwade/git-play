@@ -11,3 +11,4 @@ detach test2 parent is 6aafde8?
 >>>>>>> detach-test2
 what happened to first detach branc, detached_commit,?
 c
+c
