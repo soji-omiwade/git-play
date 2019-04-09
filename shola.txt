@@ -1,8 +1,5 @@
 a
 b
 c
-<<<<<<< HEAD
 d
-=======
 v1.2
->>>>>>> detached_commit
