@@ -3,3 +3,9 @@ b
 c
 d
 v1.2
+<<<<<<< HEAD
+=======
+>>>>>>> detached_commit
+detach test
+detach test2 parent is 6aafde8?
+>>>>>>> detach-test2
