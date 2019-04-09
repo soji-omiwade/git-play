@@ -4,6 +4,7 @@ c
 d
 v1.2
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> detached_commit
 detach test
@@ -15,3 +16,6 @@ c
 =======
 c
 >>>>>>> ba44
+=======
+s
+>>>>>>> detached_commit
