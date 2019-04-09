@@ -6,3 +6,4 @@ d
 =======
 v1.2
 >>>>>>> detached_commit
+detach test
