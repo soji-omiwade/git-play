@@ -1,5 +1,6 @@
-fetch_head test
+feth_head test
 
+testing merge on git pull --does it create two commits?
 commit 6fc994d62528ebcedbd847b65d83a81f0d2e79a2
 Author: Soji Omiwade <omiwade@gmail.com>
 Date:   Sun Apr 7 15:39:38 2019 -0700
