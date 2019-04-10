@@ -2,3 +2,4 @@
 *.a
 coo/
 /boo
+*.py
