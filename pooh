@@ -1,3 +1,13 @@
+now this is an auto merge test. 
+-----
+
+<<<<<<< HEAD
+fetch_ test
+=======
+feth_head test
+>>>>>>> 2fd9d4c5628bc5416da263a9e4900abdf0ee9865
+
+testing merge on git pull --does it create two commits?
 commit 6fc994d62528ebcedbd847b65d83a81f0d2e79a2
 Author: Soji Omiwade <omiwade@gmail.com>
 Date:   Sun Apr 7 15:39:38 2019 -0700
@@ -27,3 +37,4 @@ Author: Soji Omiwade <omiwade@gmail.com>
 Date:   Sun Apr 7 10:20:18 2019 -0700
 
     initial commit; only bye for now
+master touch
