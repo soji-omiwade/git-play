@@ -3,4 +3,8 @@ b
 c
 go away test
 a
+<<<<<<< HEAD
 42
+=======
+8342
+>>>>>>> test-checkout-changes
