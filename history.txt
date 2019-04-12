@@ -1,0 +1,500 @@
+  113  cd .git/
+  114  ls
+  115  cd ../linked_lists/
+  116  ls -latr
+  117  git status
+  118  git add ../README.md 
+  119  LS
+  120  ls
+  121  cd ..
+  122  ls -a
+  123  cd linked_lists/
+  124  cd ..
+  125  git commit 
+  126  git status
+  127  git push
+  128  git status
+  129  git pull origin master
+  130  git status
+  131  ls
+  132  git status
+  133  git add .
+  134  git status
+  135  git commit -m "optimized it to search once (not twice anymore) when deleting"
+  136  git push origin master
+  137  git checkout -b unit_test
+  138  git checkout master
+  139  git checkout -b unit_test
+  140  git push origin unit_test
+  141  git checkout -b unit_test
+  142  git checkout  unit_test
+  143  git status
+  144  git checkout master
+  145  git status
+  146  git status master
+  147  git help status
+  148  git status 
+  149  git checkout unit_test 
+  150  git status
+  151  git status unit_test
+  152  git branch -d unit_test 
+  153  git checkout  master 
+  154  git branch -d unit_test 
+  155  git push origin unit_test
+  156  git push origin 
+  157  git push origin master
+  158  git pull
+  159  git status
+  160  git checkout  -- linked_lists/singly_linked_list.py
+  161  git status
+  162  git diff
+  163  git status
+  164  git add linked_lists/
+  165  git status
+  166  git commit linked_lists/
+  167  git push origin master
+  168  git checkout -b unittest2
+  169  git status
+  170  git status
+  171  git add .
+  172  git status
+  173  git diff linked_lists/circular_linked_list.py
+  174  git diff
+  175  git diff .
+  176  git reset  HEAD .
+  177  git status
+  178  git diff linked_lists/circular_linked_list.py
+  179  git diff linked_lists/circular_linked_list.py
+  180  k
+  181  bash
+  182  git diff linked_lists/singly_linked_list.py
+  183  git diff linked_lists/singly_linked_list.py
+  184  git diff linked_lists/list_driver_utilities.py
+  185  git diff linked_lists/lsin
+  186  ls linked_lists/circular_linked_list.py 
+  187  git diff linked_lists/node.py
+  188  git diff linked_lists/linked_list_iterator.py
+  189  git diff linked_lists/test_singly_linked_list_methods.py
+  190  git status
+  191  git add .
+  192  git status
+  193  git commit
+  194  git push origin unittest2 
+  195  git status
+  196  git checkout master
+  197  git merge unittest2 
+  198  git push origin 
+  199  less linked_lists/test_circular_linked_list_methods.py 
+  200  git checkout -b append_for_circular_linked_list
+  201  git push origin 
+  202  git push origin append_for_circular_linked_list 
+  203  ls
+  204  git status
+  205  git add linked_lists/circular_linked_list.py  linked_lists/test_circular_linked_list_methods.py 
+  206  git status
+  207  git commit -m 'this fixes #2'
+  208  git push origin append_for_circular_linked_list 
+  209  git checkout master
+  210  git checkout append_for_circular_linked_list 
+  211  git push origin append_for_circular_linked_list 
+  212  git checkout master
+  213  git push origin append_for_circular_linked_list 
+  214  git checkout append_for_circular_linked_list 
+  215  git status
+  216  git status
+  217  git checkout master
+  218  git merge append_for_circular_linked_list 
+  219  git push origin append_for_circular_linked_list 
+  220  git push origin master
+  221  git push origin master
+  222  rm -r dqm
+  223  pwd
+  224  git status
+  225  git diff .
+  226  git diff .
+  227  git status
+  228  git git dfsffd
+  229  ls
+  230  dkfdfkddfksdfkid
+  231  dfkdfkkjdk
+  232  kdkkfk
+  233  :q
+  234  q
+  235  exit
+  236  ls
+  237  ls
+  238  exit
+  239  pwd
+  240  cd python
+  241  cd max-noy/
+  242  git diff .
+  243  dfdf
+  244  df
+  245  reset
+  246  fdsfasdff
+  247  resetsfadsfsa
+  248  git diff .
+  249  ddcdd
+  250  dsds
+  251  tty
+  252  man
+  253  git status
+  254  git add . 
+  255  git status
+  256  git reset HEAD linked_lists/test_singly_linked_list_methods.py
+  257  git checkout -b issue_7_8
+  258  git status
+  259  git push origin issue_7_8 
+  260  git status
+  261  git add linked_lists/linked_list_iterator.py 
+  262  git add linked_lists/test_singly_linked_list_methods.py 
+  263  git reset HEAD linked_lists/test_singly_linked_list_methods.py
+  264  git diff .
+  265  git status 
+  266  git commit 
+  267  git status
+  268  git add .
+  269  git status
+  270  git commit -m 'test out issue #7 and #8'
+  271  git push origin issue_7_8 
+  272  git merge issue_7_8 
+  273  git checkout master
+  274  git merge issue_7_8 
+  275  git push 
+  276  git push master
+  277  git push origin 
+  278  git push origin master
+  279  git pull
+  280  git push origin master
+  281  cd .git
+  282  ls
+  283  cd ..
+  284  ls -latr
+  285  cd linked_lists/
+  286  git status
+  287  git diff
+  288  git add .
+  289  git status
+  290  git reset HEAD . 
+  291  git status
+  292  git checkout -b issue_6
+  293  git status
+  294  less singly_linked_list.py 
+  295  git status
+  296  git checkout master
+  297  less singly_linked_list.py 
+  298  git push origin issue_6
+  299  git checkout -b issue_6
+  300  git checkout  issue_6
+  301  git status
+  302  git diff
+  303  git status
+  304  git checkout singly_linked_list.py
+  305  git status
+  306  git status
+  307  git status
+  308  git add circular_linked_list.py 
+  309  git status
+  310  git checkout circular_linked_list.py
+  311  git checkout -- circular_linked_list.py
+  312  git status
+  313  git checkout circular_linked_list.py
+  314  git reset HEAD circular_linked_list.py
+  315  git reset HEAD circular_linked_list.py
+  316  git status
+  317  git status
+  318  git diff
+  319  git status
+  320  git add *
+  321  git status
+  322  git add .
+  323  git status
+  324  git commit -m 'remove reloading of modules. henceforth run the scripts from the command line. you can still enter interactive mode to tinker if needed.\n this fixes issue #6'
+  325  git branch -d issue_7_8 
+  326  git push origin issue_6 
+  327  git push origin issue_7_8
+  328  git checkout issue_7_8 
+  329  git branch -d issue_7_8 
+  330  git checkout master 
+  331  git branch -d issue_7_8 
+  332  git push origin issue_7_8
+  333  git status
+  334  git push origin master
+  335  git checkout
+  336  git checkout issue_6
+  337  git status
+  338  git checkout master
+  339  git pull
+  340  git merge origin/master
+  341  git merge issue_6 
+  342  git push origin master
+  343  git fetch origin master
+  344  git fetch origin master
+  345  history
+  346  git pull
+  347  git checkout comments_issue_5 
+  348  git checkout master
+  349  git checkout comments_issue_5 
+  350  git status
+  351  git status
+  352  git status
+  353  ls
+  354  ls ../.git
+  355  ls
+  356  git status
+  357  git checkout master 
+  358  git status
+  359  git checkout comments_issue_5 
+  360  git status
+  361  git add .
+  362  git status
+  363  git checkout master 
+  364  git status
+  365  git checkout comments_issue_5 
+  366  git commit -m 'three files commented well so far...'
+  367  git status
+  368  git checkout master
+  369  git checkout comments_issue_5 
+  370  cat
+  371  cat ../.git/HEAD
+  372  git checkout master
+  373  cat ../.git/HEAD
+  374  less ../.git/HEAD
+  375  ls
+  376  cd ..
+  377  cd .git
+  378  ls
+  379  less COMMIT_EDITMSG 
+  380  cd refs
+  381  ls
+  382  ls heads/
+  383  cd ..
+  384  pwd
+  385  ls
+  386  cd refs/
+  387  ls
+  388  cd remotes/
+  389  ls
+  390  cd origin/
+  391  ls
+  392  cd ../tags
+  393  ls
+  394  cd ..
+  395  ls
+  396  cd ..
+  397  ls
+  398  cd tags
+  399  ls
+  400  cd ../../
+  401  ls
+  402  less FETCH_HEAD 
+  403  notepad FETCH_HEAD 
+  404  less index 
+  405  less description 
+  406  less config 
+  407  pwd
+  408  cd ..
+  409  ls
+  410  jd
+  411  jk
+  412  sh
+  413  ls
+  414  git status
+  415  it chekfddf
+  416  exit
+  417  history
+  418  kd
+  419  history
+  420  history -a
+  421  ls
+  422  cd simplegit-progit/
+  423  git remote -v
+  424  cd ../max-noy/
+  425  git remote -v
+  426  git remote -v
+  427  git remote -v
+  428  git remote -v
+  429  git remote -v
+  430* 
+  431  git remote
+  432  git remote remove pg
+  433  git remote
+  434  git remote remove origin 
+  435  git remote
+  436  git remote -v
+  437  git push
+  438  git remote add origin https://github.com/soji-omiwade/max-noy.gi
+  439  git remote -v
+  440* 
+  441  git remote remove origin 
+  442* 
+  443  git remote add origin https://github.com/soji-omiwade/max-noy.git
+  444  git pull
+  445  git status
+  446  git  branch --list -a
+  447  git  branch --list -r
+  448  git log
+  449  git branch --list
+  450  git status
+  451  git push
+  452  git push --set-upstream origin master
+  453  git push --set-upstream origin master
+  454  git remote show origin
+  455  git tag
+  456  git remote add ogin https://github.com/soji-omiwade/max-noy.gi
+  457  git remote -v
+  458  git remote rm og
+  459  git remote rm ogin
+  460  git remote show
+  461  git remote show -v
+  462  git remote show -v origin
+  463  git remote show origin
+  464  git branch --list -r
+  465  git branch --list -a
+  466  mkdir play1
+  467  cd play1/
+  468  echo '# git-play1' >> README.md
+  469  git init
+  470  cd ..
+  471  mv play1/ ../
+  472  CD ../play1/
+  473  cd ../play1/
+  474  git status
+  475  git add README.md 
+  476  git commit -m 'first commit'
+  477  git remote 
+  478  git remote add origin https://github.com/soji-omiwade/git-play1.git
+  479  git remote
+  480  git branch --list -a
+  481  git push -u origin master
+  482  mkdir a
+  483  cd a
+  484  echo 'a' >> shola.txt
+  485  git add shola.txt 
+  486  git commit -m 'add a file'
+  487  git push 
+  488  ls
+  489  ls
+  490  echo m >> shola.txt 
+  491  git status
+  492  git add .
+  493  git status
+  494  gitk&
+  495  cd ~/git_play/
+  496  gitk&
+  497  git checkout master 
+  498  gitk&
+  499  cd ..
+  500  explorer .
+  501  mkdir temp
+  502  cd temp
+  503  git fetch
+  504  git fetch ~/git_play/
+  505  cd ~/a
+  506  ls
+  507  cd ..
+  508  ls
+  509  cd play3
+  510  ls
+  511  git status
+  512  ls -a
+  513  cd ..
+  514  mkdir play4
+  515  cd play4
+  516  git remote add barn https://github.com/soji-omiwade/git_play.git
+  517  git init
+  518  git remote add barn https://github.com/soji-omiwade/git_play.git
+  519  git remote add barn https://github.com/soji-omiwade/git_play.git
+  520  git remote -v
+  521  git fetch barn
+  522  git fetch barn
+  523  git fetch barn
+  524  git status
+  525  git checkout barn/master
+  526  git status
+  527  echo first >>first.txt
+  528  git checkout master
+  529  git checkout barn/master
+  530  ls
+  531  git checkout -b test
+  532  echo huh >> shola.txt 
+  533  git status
+  534  git commit -a -m 'shola.txt '
+  535  git status
+  536  git status
+  537  git log
+  538  git checkout barn/master
+  539  git merge test 
+  540  less shola.txt 
+  541  git remote show
+  542  git remote show barn
+  543  git push barn
+  544  git checkout master 
+  545  less shola.txt 
+  546  git push barn
+  547* git checkout barn/master r
+  548  git status
+  549  git log
+  550  git log
+  551  git push 
+  552  git push  barn
+  553  git checkout 09e5f92
+  554  git branch 
+  555  git branch test2 
+  556  git checkout test2
+  557  git log
+  558  less shola.txt 
+  559  git push barn
+  560  git push --set-upstream barn test2
+  561  gti checkout master
+  562  git checkout master
+  563  git status
+  564  git remote
+  565  mv first.txt  second.txt
+  566  git add second.txt 
+  567  git commit -m 'second'
+  568  git log
+  569  git branch --list
+  570  ls
+  571  cd ..
+  572  mkdir play5
+  573  cd play5
+  574  git init
+  575  git remote add barn https://github.com/soji-omiwade/git_play.git
+  576  git fetch barn
+  577  git branch --list
+  578  git branch --list -a
+  579  git tag
+  580  ls
+  581  ls -latr
+  582  git checkout barn/master
+  583  ls
+  584  less shola.txt 
+  585  git checkout master
+  586  git remote
+  587  git status
+  588  echo 'master touch' >> pooh 
+  589  git status
+  590  git commit -a -m 'the master touch'
+  591  git push
+  592  git pull
+  593  less shola.txt 
+  594  git push
+  595  git checkout barn/master 
+  596  git checkout master 
+  597  git checkout kdkd
+  598  git checkout -b new_one
+  599  git checkout barn/master 
+  600  git checkout  new_one
+  601  ls
+  602  git remote show
+  603  git remote show barn
+  604  cd ~/play4
+  605  git remote show barn
+  606  git pull
+  607  git remote show barn
+  608  cd ~/play6
+  609  mkdir ~/play6
+  610  cd ~/play6
+  611  ls
+  612  history > history.txt
