@@ -3,3 +3,4 @@ m
 1
 42
 testing: branch must be setup locally to tracke remote  branch from the remote before you can fetch/pull
+testing remote and local diverge. next test. fetch just one remote and see state of other remote on git remote show
