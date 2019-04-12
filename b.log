@@ -1,5 +1,16 @@
 b
 m
+<<<<<<< HEAD
 testing if an alert is sent from remote to local when remote changes!
 42
 42
+=======
+1
+42
+testing: branch must be setup locally to tracke remote  branch from the remote before you can fetch/pull
+<<<<<<< HEAD
+3
+=======
+testing remote and local diverge. next test. fetch just one remote and see state of other remote on git remote show
+>>>>>>> booyah/delete-me
+>>>>>>> delete-me
