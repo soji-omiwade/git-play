@@ -1,16 +1,6 @@
-b
-m
-<<<<<<< HEAD
-testing if an alert is sent from remote to local when remote changes!
-42
-42
-=======
-1
-42
-testing: branch must be setup locally to tracke remote  branch from the remote before you can fetch/pull
-<<<<<<< HEAD
-3
-=======
-testing remote and local diverge. next test. fetch just one remote and see state of other remote on git remote show
->>>>>>> booyah/delete-me
->>>>>>> delete-me
+hypothesis: 
+git checkout   -- <file> means "move index/file working-dir/."
+git reset HEAD -- <file> means "move lastcommit/file index/file"--already  know this one to be true. already tried and tested.
+
+method for first one above.
+i'm going to stage now so this goes into index....
