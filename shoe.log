@@ -8,3 +8,4 @@ a
 =======
 8342
 >>>>>>> test-checkout-changes
+test what happens when local says server is fast-forwadable, and then we add something to server... 
