@@ -1,6 +1,3 @@
-hypothesis: 
-git checkout   -- <file> means "move index/file working-dir/."
-git reset HEAD -- <file> means "move lastcommit/file index/file"--already  know this one to be true. already tried and tested.
-
-method for first one above.
-i'm going to stage now so this goes into index....
+rebase test:
+master @ rebase branching off: 512ccdc
+experiment @ b53ee2c after commit 
