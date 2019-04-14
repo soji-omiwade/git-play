@@ -1,3 +1,1 @@
-rebase test:
-master @ rebase branching off: 512ccdc
-experiment @ b53ee2c after commit 
+obliterate
